@@ -43,14 +43,47 @@ Rosewill Thor v2
 
 Proxmox VE
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/images/zeussideview.png" alt="zeussideview" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/images/zeusnastopview.png" alt="zeusnastopview" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/images/zeuslaidover.jpeg" alt="zeuslaidover" style="width:100%">
-  </div>
+<div class="gallery">
+    <div class="gallery-item">
+        <a href="/assets/images/zeussideview.png" target="_blank">
+            <img src="/assets/images/zeussideview.png" alt="Side view of Zeus">
+        </a>
+    </div>
+
+    <div class="gallery-item">
+        <a href="/assets/images/zeusnastopview.png" target="_blank">
+            <img src="/assets/images/zeusnastopview.png" alt="Top view of Zeus">
+        </a>
+    </div>
+
+    <div class="gallery-item">
+        <a href="/assets/images/zeuslaidover.jpeg" target="_blank">
+            <img src="/assets/images/zeuslaidover.jpeg" alt="Laid over view of Zeus">
+        </a>
+    </div>
 </div>
+
+<style>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.gallery-item {
+    text-align: center;
+}
+
+.gallery-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+.gallery-item a:hover img {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+    transition: all 0.15s ease;
+}
+</style>

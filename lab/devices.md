@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Devices
+
 Best attempt at cataloguing at least my important devices.
 
 This is mainly for my own personal use.
@@ -16,35 +18,35 @@ This is mainly for my own personal use.
 
 [Odysseus](/lab/devices/odysseus.html) - Macbook Pro
 
-T440p
+[T440p](/lab/devices/t440p)
 
-T430
+[T430](/lab/devices/t430)
 
-Ideapad
+[Ideapad](/lab/devices/ideapad)
 
-Optiplex
+[Optiplex](/lab/devices/optiplex)
 
-Raspberry Pi Zero 2W
+[Raspberry Pi Zero 2W](/lab/devices/raspberry-pi)
 
 ### Network
 
-Gateway
+[Gateway](/lab/devices/gateway)
 
-Modem
+[Modem](/lab/devices/modem)
 
-Router
+[Router](/lab/devices/router)
 
-AP
+[AP](/lab/devices/ap)
 
-Switch
+[Switch](/lab/devices/switch)
 
 ### Misc
 
-iPhone
+[iPhone](/lab/devices/iphone)
 
-Tracfone
+[Tracfone](/lab/devices/tracfone)
 
-iPad
+[iPad](/lab/devices/ipad)
 
-Kindle Paperwhite
+[Kindle Paperwhite](/lab/devices/kindle)
 
