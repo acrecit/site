@@ -32,6 +32,12 @@ A running catalog of my physical book collection. Click on any book to read my t
             <span class="book-title">Anathem</span>
         </a>
     </div>
+    <div class="book-item">
+        <a href="/life/books/bronze-age-mindset.html">
+            <img src="/assets/images/books/bronze-age-mindset.jpg" alt="Bronze Age Mindset">
+            <span class="book-title">Bronze Age Mindset</span>
+        </a>
+    </div>
 </div>
 
 <style>
