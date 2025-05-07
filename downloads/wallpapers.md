@@ -49,7 +49,7 @@ layout: default
         </a>
     </div>
 
-    <div class="gallery-item">
+<!--     <div class="gallery-item">
         <a href="/downloads/wallpapers/wp5568820.png" target="_blank">
             <img src="/downloads/wallpapers/wp5568820.png" alt="Wallpaper 5">
             <div class="overlay">
@@ -58,7 +58,7 @@ layout: default
                 </div>
             </div>
         </a>
-    </div>
+    </div> -->
 
     <div class="gallery-item">
         <a href="/downloads/wallpapers/092.png" target="_blank">

@@ -7,4 +7,6 @@ Here I will attempt to catalogue and document those aspects of myself and my hob
 
 [some random thoughts (mostly from twitter)](/life/thoughts/thoughts.html)
 
+[some nonsense i wrote the other day](/2025/04/06/rise.html)
+
 [my book collection](/life/books.html)
